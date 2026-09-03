@@ -10,10 +10,10 @@ st.set_page_config(
 # ── Load data ──────────────────────────────────────────
 @st.cache_data
 def load_data():
-    batting  = pd.read_csv("data/fact_bating_summary.csv")
-    bowling  = pd.read_csv("data/fact_bowling_summary.csv")
-    matches  = pd.read_csv("data/dim_match_summary.csv")
-    players  = pd.read_csv("data/dim_players_no_images.csv")
+    batting  = pd.read_csv("https://raw.githubusercontent.com/nandan336/cricket-dream-team-t20/main/data/fact_bating_summary.csv")
+    bowling  = pd.read_csv("https://raw.githubusercontent.com/nandan336/cricket-dream-team-t20/main/data/fact_bowling_summary.csv")
+    matches  = pd.read_csv("https://raw.githubusercontent.com/nandan336/cricket-dream-team-t20/main/data/dim_match_summary.csv")
+    players  = pd.read_csv("https://raw.githubusercontent.com/nandan336/cricket-dream-team-t20/main/data/dim_players_no_images.csv")
     return batting, bowling, matches, players
 
 batting, bowling, matches, players = load_data()
