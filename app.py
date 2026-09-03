@@ -62,7 +62,7 @@ bowl_agg.rename(columns={"bowlingTeam":"team"}, inplace=True)
 # ══════════════════════════════════════════════════════
 st.title("🏏 Cricket Dream Team Selector")
 st.markdown("### ICC Men's T20 World Cup 2022-23")
-st.markdown("*Data-driven player selection — pure performance analytics. Built by Nandan Chandrashekar & Himanshu Ravishankar*")
+st.markdown("*Data-driven player selection — pure performance analytics. Built by Nandan Chandrashekar*")
 
 col1, col2, col3, col4 = st.columns(4)
 col1.metric("Total Matches", len(matches))
