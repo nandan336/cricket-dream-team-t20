@@ -1,7 +1,7 @@
 # Cricket Dream Team Selector — ICC Men's T20 World Cup 2022-23
 
-Built by: Nandan Chandrashekar & Himanshu Ravishankar
-Live Dashboard: https://project.novypro.com/eU32JC
+Built by: Nandan Chandrashekar 
+Live Dashboard: [https://project.novypro.com/eU32JC](https://cricket-dream-team-t20-jdkgcg5ko3m2hkmxcmij2h.streamlit.app/#cricket-dream-team-selector)
 Tools: Python | Pandas | Power BI | DAX | Power Query | Web Scraping
 
 ## 📌 Project Overview
