@@ -1,0 +1,1 @@
+This folder contains the T20 World Cup 2022 data files.
