@@ -1,4 +1,4 @@
-# 🏏 Cricket Dream Team Selector — ICC Men's T20 World Cup 2022-23
+# Cricket Dream Team Selector — ICC Men's T20 World Cup 2022-23
 
 Built by: Nandan Chandrashekar & Himanshu Ravishankar
 Live Dashboard: https://project.novypro.com/eU32JC
